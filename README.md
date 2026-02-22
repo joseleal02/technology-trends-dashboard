@@ -1,6 +1,13 @@
 # technology-trends-dashboard
 Survey data cleaning, analysis, and Looker Studio dashboard built with Python
 
+🔹 Objective
+Analyze developer survey data to uncover patterns in:
+- Technology preferences
+- Age distribution
+- Education level
+- Geographic trends
+
 🔹 Project Overview
 
 This project analyzes survey data to explore developer demographics and technology trends.
@@ -29,7 +36,7 @@ Looker Studio
 
 Age distribution patterns
 
-Education level trends
+Technolofy usage trends
 
 Geographic distribution
 

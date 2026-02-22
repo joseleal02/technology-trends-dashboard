@@ -1,0 +1,295 @@
+Technology,Count,Category
+JavaScript,14943,Language Used
+SQL,12602,Language Used
+HTML/CSS,12410,Language Used
+TypeScript,10709,Language Used
+Python,9590,Language Used
+Bash/Shell (all shells),7244,Language Used
+C#,6340,Language Used
+Java,5982,Language Used
+PHP,4644,Language Used
+PowerShell,3438,Language Used
+Go,3305,Language Used
+C++,3081,Language Used
+C,2777,Language Used
+Rust,2284,Language Used
+Kotlin,1958,Language Used
+Ruby,1500,Language Used
+Dart,1390,Language Used
+Lua,1160,Language Used
+Visual Basic (.Net),957,Language Used
+Swift,898,Language Used
+Groovy,756,Language Used
+R,711,Language Used
+VBA,710,Language Used
+Assembly,685,Language Used
+Elixir,673,Language Used
+MATLAB,592,Language Used
+Scala,507,Language Used
+Perl,463,Language Used
+Objective-C,390,Language Used
+GDScript,387,Language Used
+Delphi,349,Language Used
+Solidity,302,Language Used
+Haskell,300,Language Used
+MicroPython,285,Language Used
+Erlang,251,Language Used
+Clojure,245,Language Used
+Lisp,237,Language Used
+F#,194,Language Used
+Zig,187,Language Used
+Apex,176,Language Used
+Prolog,151,Language Used
+Julia,143,Language Used
+Fortran,141,Language Used
+Cobol,122,Language Used
+Ada,107,Language Used
+OCaml,105,Language Used
+Crystal,83,Language Used
+Nim,54,Language Used
+Zephyr,39,Language Used
+PostgreSQL,11514,Database Used
+MySQL,8556,Database Used
+SQLite,7021,Database Used
+MongoDB,5930,Database Used
+Microsoft SQL Server,5870,Database Used
+Redis,5814,Database Used
+MariaDB,3994,Database Used
+Elasticsearch,3491,Database Used
+Dynamodb,2268,Database Used
+Oracle,1907,Database Used
+Cloud Firestore,1467,Database Used
+Firebase Realtime Database,1429,Database Used
+BigQuery,1177,Database Used
+Supabase,1122,Database Used
+Cosmos DB,1070,Database Used
+H2,884,Database Used
+Microsoft Access,802,Database Used
+Snowflake,620,Database Used
+InfluxDB,597,Database Used
+Cassandra,544,Database Used
+Neo4J,445,Database Used
+Databricks SQL,402,Database Used
+Clickhouse,399,Database Used
+Solr,388,Database Used
+IBM DB2,326,Database Used
+DuckDB,305,Database Used
+Couch DB,263,Database Used
+Cockroachdb,247,Database Used
+Firebird,206,Database Used
+Couchbase,166,Database Used
+Presto,124,Database Used
+EventStoreDB,70,Database Used
+RavenDB,68,Database Used
+Datomic,57,Database Used
+TiDB,43,Database Used
+Amazon Web Services (AWS),10871,Platform Used
+Microsoft Azure,6681,Platform Used
+Google Cloud,5537,Platform Used
+Cloudflare,3874,Platform Used
+Digital Ocean,3170,Platform Used
+Firebase,3025,Platform Used
+Vercel,2875,Platform Used
+Heroku,2002,Platform Used
+Netlify,1662,Platform Used
+Hetzner,1392,Platform Used
+VMware,1341,Platform Used
+Supabase,1009,Platform Used
+Managed Hosting,817,Platform Used
+"Linode, now Akamai",816,Platform Used
+OVH,779,Platform Used
+Fly.io,759,Platform Used
+Render,633,Platform Used
+OpenShift,574,Platform Used
+Oracle Cloud Infrastructure (OCI),571,Platform Used
+Vultr,437,Platform Used
+Databricks,388,Platform Used
+PythonAnywhere,346,Platform Used
+OpenStack,308,Platform Used
+IBM Cloud Or Watson,226,Platform Used
+Scaleway,216,Platform Used
+Alibaba Cloud,206,Platform Used
+Colocation,140,Platform Used
+Node.js,9230,Web Framework Used
+React,8999,Web Framework Used
+jQuery,4810,Web Framework Used
+Express,4408,Web Framework Used
+Next.js,4399,Web Framework Used
+ASP.NET CORE,4319,Web Framework Used
+Angular,4038,Web Framework Used
+Vue.js,3642,Web Framework Used
+ASP.NET,3094,Web Framework Used
+Spring Boot,2916,Web Framework Used
+Flask,2817,Web Framework Used
+Django,2752,Web Framework Used
+WordPress,2696,Web Framework Used
+FastAPI,2487,Web Framework Used
+Laravel,2016,Web Framework Used
+AngularJS,1648,Web Framework Used
+NestJS,1569,Web Framework Used
+Svelte,1478,Web Framework Used
+Ruby on Rails,1275,Web Framework Used
+Blazor,1256,Web Framework Used
+Nuxt.js,910,Web Framework Used
+Htmx,815,Web Framework Used
+Symfony,781,Web Framework Used
+Astro,742,Web Framework Used
+Fastify,622,Web Framework Used
+Phoenix,567,Web Framework Used
+Deno,476,Web Framework Used
+Strapi,469,Web Framework Used
+Drupal,468,Web Framework Used
+Gatsby,455,Web Framework Used
+CodeIgniter,416,Web Framework Used
+Remix,407,Web Framework Used
+Solid.js,273,Web Framework Used
+Yii 2,245,Web Framework Used
+Play Framework,175,Web Framework Used
+Elm,133,Web Framework Used
+JavaScript,11541,Language Desired
+SQL,10944,Language Desired
+TypeScript,10437,Language Desired
+HTML/CSS,10016,Language Desired
+Python,8919,Language Desired
+Go,5661,Language Desired
+Rust,5597,Language Desired
+C#,5590,Language Desired
+Bash/Shell (all shells),5582,Language Desired
+Java,4048,Language Desired
+PHP,2794,Language Desired
+Kotlin,2738,Language Desired
+C++,2341,Language Desired
+PowerShell,2074,Language Desired
+C,1833,Language Desired
+Dart,1506,Language Desired
+Swift,1382,Language Desired
+Elixir,1333,Language Desired
+Ruby,1294,Language Desired
+Zig,1136,Language Desired
+Lua,1069,Language Desired
+Assembly,594,Language Desired
+R,591,Language Desired
+Scala,569,Language Desired
+F#,531,Language Desired
+Haskell,516,Language Desired
+GDScript,494,Language Desired
+Erlang,455,Language Desired
+Clojure,447,Language Desired
+Solidity,419,Language Desired
+MicroPython,376,Language Desired
+Groovy,344,Language Desired
+Lisp,331,Language Desired
+OCaml,321,Language Desired
+Visual Basic (.Net),319,Language Desired
+Julia,254,Language Desired
+Perl,244,Language Desired
+VBA,225,Language Desired
+Objective-C,218,Language Desired
+MATLAB,204,Language Desired
+Delphi,159,Language Desired
+Crystal,156,Language Desired
+Nim,146,Language Desired
+Apex,128,Language Desired
+Cobol,117,Language Desired
+Prolog,109,Language Desired
+Ada,102,Language Desired
+Fortran,89,Language Desired
+Zephyr,63,Language Desired
+PostgreSQL,12193,Database Desired
+Redis,6384,Database Desired
+SQLite,6295,Database Desired
+MySQL,6204,Database Desired
+MongoDB,5618,Database Desired
+Microsoft SQL Server,4345,Database Desired
+Elasticsearch,3665,Database Desired
+MariaDB,3078,Database Desired
+Dynamodb,2154,Database Desired
+Supabase,1623,Database Desired
+Firebase Realtime Database,1303,Database Desired
+BigQuery,1296,Database Desired
+Cosmos DB,1172,Database Desired
+Cloud Firestore,1155,Database Desired
+Oracle,1113,Database Desired
+Cassandra,1083,Database Desired
+Snowflake,843,Database Desired
+Neo4J,780,Database Desired
+DuckDB,684,Database Desired
+Clickhouse,636,Database Desired
+H2,573,Database Desired
+Cockroachdb,567,Database Desired
+InfluxDB,560,Database Desired
+Databricks SQL,526,Database Desired
+Couch DB,308,Database Desired
+Solr,292,Database Desired
+Microsoft Access,242,Database Desired
+EventStoreDB,200,Database Desired
+Couchbase,185,Database Desired
+Firebird,174,Database Desired
+IBM DB2,165,Database Desired
+Datomic,147,Database Desired
+Presto,140,Database Desired
+TiDB,111,Database Desired
+RavenDB,99,Database Desired
+Amazon Web Services (AWS),10516,Platform Desired
+Microsoft Azure,6380,Platform Desired
+Google Cloud,5431,Platform Desired
+Cloudflare,4219,Platform Desired
+Digital Ocean,2908,Platform Desired
+Vercel,2776,Platform Desired
+Firebase,2720,Platform Desired
+Hetzner,1577,Platform Desired
+Supabase,1368,Platform Desired
+Netlify,1267,Platform Desired
+Fly.io,1018,Platform Desired
+Heroku,1012,Platform Desired
+VMware,868,Platform Desired
+"Linode, now Akamai",821,Platform Desired
+Managed Hosting,709,Platform Desired
+OVH,631,Platform Desired
+OpenShift,585,Platform Desired
+Databricks,546,Platform Desired
+Oracle Cloud Infrastructure (OCI),540,Platform Desired
+Render,529,Platform Desired
+OpenStack,417,Platform Desired
+Vultr,367,Platform Desired
+PythonAnywhere,350,Platform Desired
+IBM Cloud Or Watson,247,Platform Desired
+Alibaba Cloud,237,Platform Desired
+Scaleway,195,Platform Desired
+Colocation,176,Platform Desired
+React,8223,Web Framework Desired
+Node.js,8096,Web Framework Desired
+Next.js,4458,Web Framework Desired
+ASP.NET CORE,4166,Web Framework Desired
+Vue.js,3903,Web Framework Desired
+Angular,3309,Web Framework Desired
+Express,3216,Web Framework Desired
+FastAPI,2823,Web Framework Desired
+Spring Boot,2674,Web Framework Desired
+Svelte,2559,Web Framework Desired
+Django,2541,Web Framework Desired
+jQuery,2264,Web Framework Desired
+Htmx,2103,Web Framework Desired
+Flask,2053,Web Framework Desired
+ASP.NET,1847,Web Framework Desired
+NestJS,1764,Web Framework Desired
+Laravel,1735,Web Framework Desired
+Blazor,1665,Web Framework Desired
+WordPress,1345,Web Framework Desired
+Ruby on Rails,1250,Web Framework Desired
+Astro,1147,Web Framework Desired
+Nuxt.js,1145,Web Framework Desired
+Deno,1040,Web Framework Desired
+Phoenix,907,Web Framework Desired
+AngularJS,794,Web Framework Desired
+Solid.js,787,Web Framework Desired
+Remix,727,Web Framework Desired
+Fastify,683,Web Framework Desired
+Symfony,636,Web Framework Desired
+Strapi,404,Web Framework Desired
+Gatsby,255,Web Framework Desired
+Elm,248,Web Framework Desired
+Drupal,208,Web Framework Desired
+CodeIgniter,183,Web Framework Desired
+Play Framework,136,Web Framework Desired
+Yii 2,123,Web Framework Desired

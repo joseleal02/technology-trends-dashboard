@@ -4,7 +4,7 @@ Survey data cleaning, analysis, and Looker Studio dashboard built with Python
 🔹 Objective
 
 Analyze developer survey data to uncover patterns in:
-- Technology preferences
+- Current and future technology preferences
 - Age distribution
 - Education level
 - Geographic trends
@@ -35,13 +35,9 @@ Looker Studio
 
 🔹 Key Insights
 
-Age distribution patterns
+Current technology landscape and emerging trends
 
-Technolofy usage trends
-
-Geographic distribution
-
-Relationships between demographics and technology usage
+Age distribution patterns, education level and geographic location of developers
 
 🔹 Dashboard
 

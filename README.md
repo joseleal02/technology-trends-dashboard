@@ -35,9 +35,10 @@ Looker Studio
 
 🔹 Key Insights
 
-Current technology landscape and emerging trends
-
-Age distribution patterns, education level and geographic location of developers
+- Most respondents are early-career developers
+- JavaScript and SQL dominate current and desired programming language preferences
+- Developers show increasing interest in modern frameworks
+- Cloud adoption trends favor AWS, Azure, and Google Cloud
 
 🔹 Dashboard
 

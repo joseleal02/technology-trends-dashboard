@@ -15,7 +15,7 @@ This project analyzes survey data to explore developer demographics and technolo
 
 🔹 Workflow
 
-Data cleaning and preprocessing using Python (Pandas, NumPy)
+Data cleaning and preprocessing using Python (Pandas)
 
 Exploratory Data Analysis (EDA)
 
@@ -27,7 +27,7 @@ Interactive dashboard built in Looker Studio
 
 Python
 
-Pandas / NumPy
+Pandas
 
 Jupyter Notebook
 
